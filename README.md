@@ -7,9 +7,11 @@
 ## 1.Description
 This project is a demo for **Particle Filter**.
 
-The <font color=red>**red point**</font>: Landmarks.
-The <font color=blue>**blue point**</font>: Robot pose.
-The <font color=green>**green point**</font>: Particle.
++ The <font color=red>**red point**</font>: Landmarks.
+
++ The <font color=blue>**blue point**</font>: Robot pose.
+
++ The <font color=green>**green point**</font>: Particle.
 
 
 Below is the result.
@@ -28,8 +30,10 @@ I have tested the library in Ubuntu 16.04 (Python 2.7), but it should be easy to
 
 ## 3.How to run
 open the terminal in the source code folder. and run
-`chmod +x particle_filter_demo.py`
-`./particle_filter_demo.p`
+```Bash
+chmod +x particle_filter_demo.py
+./particle_filter_demo.p
+```
 
 ## 4.Algorithm
 Please refer [this](https://en.wikipedia.org/wiki/Particle_filter)
