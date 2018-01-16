@@ -2,6 +2,7 @@
 **Authors:** Xinliang Zhong. (xinliangzhong@foxmail.com)
 
 **16 Jan 2018**: A roughly implementation of particle filter is done.
+
 **17 Jan 2018**: The first version of reconstruction code acoording to the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is available.
 
 ## 1.Description
@@ -21,6 +22,12 @@ Below is the result.
 The final result
 
 ![](result1.png)
+
+### Another Demo realized by C++. Find source code [here](https://github.com/TurtleZhong/Udacity_SelfDrivingCar_2SensorFusion_Project2_ParticalFilter).
+The GIF result:
+
+![](demo2.gif)
+
 
 ## 2.Prerequisites
 I have tested the library in Ubuntu 16.04 (Python 2.7), but it should be easy to compile in other platforms.
