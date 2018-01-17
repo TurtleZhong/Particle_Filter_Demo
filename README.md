@@ -1,9 +1,18 @@
 # Particle Filter Demo
+
+## Notes:
+
+#### 1.The slides is available [**here**](http://fs.focusky.com.cn/bxzz/bgzq/index.html).
+
+#### 2.Before the course, I recommend all of you refer [**this**](https://www.zhihu.com/question/25371476). It will give you a whole picture of [Particle Filter](https://en.wikipedia.org/wiki/Particle_filter).
+
 **Authors:** Xinliang Zhong. (xinliangzhong@foxmail.com)
 
 **16 Jan 2018**: A roughly implementation of particle filter is done.
 
-**17 Jan 2018**: The first version of reconstruction code acoording to the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is available.
+**17 Jan 2018**: The first version of reconstruction code acoording to the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) is available.(just partical of the code)
+
+**17 Jan 2018**: The slides is available [**here**](http://fs.focusky.com.cn/bxzz/bgzq/index.html).
 
 ## 1.Description
 This project is a demo for **Particle Filter**.
